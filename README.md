@@ -6,5 +6,7 @@
     <title>Solution for Module2</title>
     <style>
       .container{
-      
+             border:5px solid black;
+             marigin:30px 30px 30px 30px;
+      }
       
