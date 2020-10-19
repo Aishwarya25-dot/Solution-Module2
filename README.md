@@ -7,13 +7,6 @@
       .col-md-4,.col-sm-6{
       border:2px solid black;
       }
-      .row{
-         margin-bottom:15px;
-      }
-      .row>div{
-          border: 2px solid black;
-          background-color:gray;
-      }
     </style>
   </head>
   <body>
